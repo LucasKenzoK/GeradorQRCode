@@ -6,4 +6,4 @@ Gerador de QR codes por meio de API
 
 ## Funcionamento
 ### Optimizado para ser **Responsivo**
-<img src="QRCode.gif" />
+<img src=".img/QRCode.gif" />
