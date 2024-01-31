@@ -1,4 +1,4 @@
-#🧮Tabuada🧮
+# 📷Gerador de QR Code📷
 ## Introdução
 site feito em **HTML5 & CSS3** & **JavaScript** para estudo
 ## Funções
